@@ -12,7 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/ankush3681/glow_API.git"
   },
-  "keywords": [],
+  "keywords": [
+    "blitz",
+    "blitzjs"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -22,7 +25,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.3",
+    "@blitzjs/installer": "0.45.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
