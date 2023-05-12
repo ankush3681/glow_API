@@ -6,11 +6,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-drop-the-base-serum-foundation-10-latte-light-warm-undertone-10965228388435.jpg?v=1619107903",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-drop-the-base-serum-foundation-10-latte-light-warm-undertone-10959780937811.jpg?v=1619107907",
            "title":"Drop The Base Serum Foundation",
-           "price":"765",
+           "price":765,
            "brand":"lakme",
            "category":"foundation",
-           "rating":"3.7",
-           "discount":"15"
+           "rating":3.7,
+           "discount":15
        },
        {
            "id":32,
@@ -18,11 +18,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/3_358339fb-c09f-4deb-9d60-1cc5a2b70707.jpg?v=1678725238",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/4_4c91e8d7-551e-4e59-81db-5a9f01d1f8c7.jpg?v=1678725240",
            "title":"Goddess Of Flawless BB Serum",
-           "price":"699",
+           "price":699,
            "brand":"lakme",
            "category":"serum",
-           "rating":"4.5",
-           "discount":"21"
+           "rating":4.5,
+           "discount":21
        },
        {
            "id":33,
@@ -30,11 +30,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/2_9bc4c9c3-966c-4385-a209-794cb1ffda16.jpg?v=1678725256",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/4_e850db68-95ee-45c2-9547-1eb3d3cb1003.jpg?v=1678725260",
            "title":"MamaEarth Goddess Of Flawless BB Serum",
-           "price":"789",
+           "price":789,
            "brand":"mamaearth",
            "category":"serum",
-           "rating":"4.0",
-           "discount":"7"
+           "rating":4.0,
+           "discount":7
        },
        {
            "id":34,
@@ -66,11 +66,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/2_40b8d0b3-b672-41dd-8a98-e32a36421020.jpg?v=1655817968",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/1_970c1c21-0fc9-4a9b-98dc-43cebdc5f554.jpg?v=1640792528",
            "title":"Ace Of Face Foundation Stick",
-           "price":"997",
+           "price":997,
            "brand":"mamaearth",
            "category":"foundation",
-           "rating":"3.5",
-           "discount":"10"
+           "rating":3.5,
+           "discount":10
        },
        {
            "id":37,
@@ -78,11 +78,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-goddess-of-flawless-spf30-bb-cream-55-americano-medium-deep-14376522743891.jpg?v=1619114685",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-goddess-of-flawless-spf30-bb-cream-47-borgia-medium-tan-12794193477715.jpg?v=1619114672",
            "title":"Goddess Of Flawless SPF30",
-           "price":"390",
+           "price":390,
            "brand":"lakme",
            "category":"serum",
-           "rating":"3.9",
-           "discount":"16"
+           "rating":3.9,
+           "discount":16
        },
        {
            "id":38,
@@ -90,11 +90,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/1_4f270025-cf6b-483b-bc1d-843b3d297364.jpg?v=1678972974",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/2_c88aae19-077d-4755-992e-7ef114e60df8.jpg?v=1678972974",
            "title":"SUGAR Aquaholic Hydrating Foundation - 47 Borgia",
-           "price":"558",
+           "price":558,
            "brand":"mamaearth",
            "category":"foundation",
-           "rating":"3.7",
-           "discount":"5"
+           "rating":3.7,
+           "discount":5
        },
        {
            "id":39,
@@ -102,11 +102,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-goddess-of-flawless-spf30-bb-cream-47-borgia-medium-tan-14401667006547.jpg?v=1619114676",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-goddess-of-flawless-spf30-bb-cream-47-borgia-medium-tan-12794193477715.jpg?v=1619114672",
            "title":" Flawless SPF30+ BB Cream",
-           "price":"334",
+           "price":334,
            "brand":"lakme",
            "category":"serum",
-           "rating":"3.4",
-           "discount":"11"
+           "rating":3.4,
+           "discount":11
        },
        {
            "id":40,
@@ -114,11 +114,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/1_529c20ee-c872-4029-9702-8580d7b9a66f.jpg?v=1640178644",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/2_c88aae19-077d-4755-992e-7ef114e60df8.jpg?v=1678972974",
            "title":"Hydrating Foundation new",
-           "price":"650",
+           "price":650,
            "brand":"mamaearth",
            "category":"foundation",
-           "rating":"3",
-           "discount":"8"
+           "rating":3,
+           "discount":8
        },
        {
            "id":41,
@@ -126,11 +126,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/5_1_5d67622f-a55f-49b6-b667-9d6573c9b1f5.jpg?v=1657257149",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/6_1.jpg?v=1657257149",
            "title":"Base Of Glory Pore Minimizing Primer",
-           "price":"1199",
+           "price":1199,
            "brand":"lakme",
            "category":"serum",
-           "rating":"4.9",
-           "discount":"23"
+           "rating":4.9,
+           "discount":23
        },
        {
            "id":42,
@@ -138,11 +138,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28270316978259.jpg?v=1667447962",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28270317109331.jpg?v=1667447962",
            "title":"Matte As Hell Crayon Foundation Minis Set",
-           "price":"1490",
+           "price":1490,
            "brand":"mamaearth",
            "category":"foundation",
-           "rating":"4.6",
-           "discount":"13"
+           "rating":4.6,
+           "discount":13
        },
        {
            "id":43,
@@ -150,11 +150,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-arch-arrival-brow-powder-01-jerry-brown-dark-brown-14752924926035.jpg?v=1619120303",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-arch-arrival-brow-powder-01-jerry-brown-dark-brown-14753166164051.jpg?v=1619120299",
            "title":"Arch Arrival Brow Serum",
-           "price":"469",
+           "price":469,
            "brand":"lakme",
            "category":"serum",
-           "rating":"4.0",
-           "discount":"8"
+           "rating":4.0,
+           "discount":8
        },
        {
            "id":44,
@@ -162,11 +162,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-arch-arrival-brow-powder-01-jerry-brown-dark-brown-14752924958803.jpg?v=1619120301",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-arch-arrival-brow-powder-01-jerry-brown-dark-brown-14753166164051.jpg?v=1619120299",
            "title":"Elemis Glow Cleansing foundation 90g",
-           "price":"499",
+           "price":499,
            "brand":"lakme",
            "category":"foundation",
-           "rating":"3.3",
-           "discount":"5"
+           "rating":3.3,
+           "discount":5
        },
        {
            "id":45,
@@ -174,11 +174,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/01_1_3488bc09-d874-4284-a32d-dbdae5030f4a.jpg?v=1676391016",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/Image2_aef90e19-6da5-45b2-8f19-f0acce966b21.jpg?v=1676391021",
            "title":"Elemis Absolute Eye Serum 15ml",
-           "price":"789",
+           "price":789,
            "brand":"mamaearth",
            "category":"serum",
-           "rating":"2.7",
-           "discount":"20"
+           "rating":2.7,
+           "discount":20
        },
        {
            "id":46,
@@ -198,11 +198,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard2_276d0042-b28a-45fa-bd66-fee81593068b.jpg?v=1675959720",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard4_6980eed7-87a0-4e4a-9e6f-838ec8fbf2d2.jpg?v=1675959726",
            "title":"Tipsy Lips Scrub + Balm Duo",
-           "price":"299",
+           "price":299,
            "brand":"mamaearth",
            "category":"serum",
-           "rating":"4",
-           "discount":"19"
+           "rating":4,
+           "discount":19
        },
        {
            "id":48,
@@ -210,11 +210,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/01_4185a659-d860-49d2-b911-ef138f43afec.jpg?v=1671604494",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/05_01c5d13f-1f14-48ad-891e-828f44b1135c.jpg?v=1671604494",
            "title":"Bold Unfold Waterproof Mascara foundation",
-           "price":"888",
+           "price":888,
            "brand":"lakme",
            "category":"foundation",
-           "rating":"3.3",
-           "discount":"16"
+           "rating":3.3,
+           "discount":16
        },
        {
            "id":49,
@@ -222,11 +222,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard4_e105066e-0072-4490-8744-cbe024df4584.jpg?v=1675959784",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard3_a2d50a63-66ad-40d1-a346-98e9cc027a53.jpg?v=1676035807",
            "title":"mamaearth Tipsy Lips Scrub + Balm Duo",
-           "price":"190",
+           "price":190,
            "brand":"mamaearth",
            "category":"serum",
-           "rating":"4.3",
-           "discount":"7"
+           "rating":4.3,
+           "discount":7
        },
        {
            "id":50,
@@ -234,11 +234,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/382512092-mettle-priming-balm-02.jpg?v=1648654863",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/382512098-mettle-priming-balm-03.jpg?v=1648654866",
            "title":"Mettle Priming Balm foundation",
-           "price":"334",
+           "price":334,
            "brand":"lakme",
            "category":"foundation",
-           "rating":"4.4",
-           "discount":"11"
+           "rating":4.4,
+           "discount":11
        },
        {
            "id":51,
@@ -246,11 +246,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/Model-Brightening-Primer.jpg?v=1666886741",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/SUGAR-Prime-Sublime-Primer---Powered-By-Images1.jpg?v=1666873373",
            "title":"Prime Sublime Brightening Serum",
-           "price":"500",
+           "price":500,
            "brand":"mamaearth",
            "category":"serum",
-           "rating":"5",
-           "discount":"20"
+           "rating":5,
+           "discount":20
        },
        {
            "id":52,
@@ -258,11 +258,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/SUGAR-Prime-Sublime-Primer---Powered-By-Images1.jpg?v=1666873373",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/SUGAR-Prime-Sublime-Primer---Powered-By-Images2.jpg?v=1666873373",
            "title":"Elemis Pro-Collagen Ultra Rich Marine",
-           "price":"700",
+           "price":700,
            "brand":"lakme",
            "category":"foundation",
-           "rating":"2.2",
-           "discount":"27"
+           "rating":2.2,
+           "discount":27
        },
        {
            "id":53,
@@ -270,11 +270,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-citrus-got-real-spf30-sunscreen-28038292439123.jpg?v=1619155725",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-citrus-got-real-spf30-sunscreen-28038344704083.jpg?v=1619155727",
            "title":"Citrus Got Real SPF30 Serum",
-           "price":"869",
+           "price":869,
            "brand":"mamaearth",
            "category":"serum",
-           "rating":"2.8",
-           "discount":"24"
+           "rating":2.8,
+           "discount":24
        },
        {
            "id":54,
@@ -282,11 +282,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/Coffee-culture-cleansing-balm-stick-02.jpg?v=1643375711",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/Coffee-culture-cleansing-balm-stick-03.jpg?v=1643375715",
            "title":"Coffee Culture Cleansing Balm Stick Serum",
-           "price":"1050",
+           "price":1050,
            "brand":"lakme",
            "category":"serum",
-           "rating":"4.4",
-           "discount":"10"
+           "rating":4.4,
+           "discount":10
        },
        {
            "id":55,
@@ -294,11 +294,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/Coffee-culture-hydrating-mist-01.jpg?v=1644312897",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/Coffee-culture-hydrating-mist-03.jpg?v=1644312897",
            "title":"Coffee Culture Hydrating Mist Foundation",
-           "price":"755",
+           "price":755,
            "brand":"mamaearth",
            "category":"foundation",
-           "rating":"4",
-           "discount":"17"
+           "rating":4,
+           "discount":17
        },
        {
            "id":56,
@@ -306,11 +306,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-citrus-got-real-cooling-stick-28037939396691.jpg?v=1619155735",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-citrus-got-real-cooling-stick-28037939363923.jpg?v=1644409181",
            "title":"Citrus Got Real Cooling Serum",
-           "price":"534",
+           "price":534,
            "brand":"lakme",
            "category":"serum",
-           "rating":"3.5",
-           "discount":"13"
+           "rating":3.5,
+           "discount":13
        },
        {
            "id":57,
@@ -318,11 +318,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-swipe-right-cleansing-water-14285184794707.jpg?v=1678074596",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-swipe-right-cleansing-water-12771592699987.jpg?v=1678074596",
            "title":"Swipe Right Cleansing Water",
-           "price":"995",
+           "price":995,
            "brand":"mamaearth",
            "category":"foundation",
-           "rating":"2.1",
-           "discount":"31"
+           "rating":2.1,
+           "discount":31
        },
        {
            "id":58,
@@ -330,11 +330,11 @@
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-serial-sipper-watter-bottle-28150750314579.jpg?v=1665465621",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-serial-sipper-watter-bottle-28150768205907-New.jpg?v=1665504211",
            "title":"Serial Sipper Water Bottle",
-           "price":"487",
+           "price":487,
            "brand":"lakme",
            "category":"foundation",
-           "rating":"4.8",
-           "discount":"12"
+           "rating":4.8,
+           "discount":12
        },
        {
            "id":59,
@@ -342,11 +342,11 @@
            "image2":"https://static.thcdn.com/images/xsmall/webp//productimg/original/12624606-1674891246361628.jpg",
            "image3":"https://static.thcdn.com/images/xsmall/webp//productimg/original/12698043-1604891248779334.jpg",
            "title":"Elemis Superfood Facial Serum",
-           "price":"199",
+           "price":199,
            "brand":"mamaearth",
            "category":"serum",
-           "rating":"5",
-           "discount":"10"
+           "rating":5,
+           "discount":10
        },
        {
            "id":60,
@@ -354,20 +354,20 @@
            "image2":"https://static.thcdn.com/images/xsmall/webp/productimg/1600/1600/12043750-5144656872911659.jpg",
            "image3":"https://static.thcdn.com/images/xsmall/webp//productimg/original/11642884-7864891243813191.jpg",
            "title":"Elemis Superfood Day Cream Foundation",
-           "price":"280",
+           "price":280,
            "brand":"lakme",
            "category":"foundatin",
-           "rating":"3.1",
-           "discount":"15"
+           "rating":3.1,
+           "discount":15
        },
        { "id": 61, 
            "title": "Kohl Of Honour Intense Kajal - 01 Black Out (Black),", 
            "image1": "https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10802_7c9410bd-049b-44a0-b78c-5f52d1a70f1e.jpg?v=1679673049",
            "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10804.jpg?v=1679673053",
            "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10801.jpg?v=1679673047",
-             "price":"499",
-             "rating":"3",
-             "discount":"14",
+             "price":499,
+             "rating":3,
+             "discount":14,
              "category":"kajal",
              "brand":"sugar"
            },
@@ -378,20 +378,20 @@
            "title":"Smudge Me Not Liquid Lipstick - 01 Brazen Raisin",
            "category":"lipstick",
            "brand":"goodvibes",
-           "rating":"2.2",
-           "price":"100",
-           "discount":"6"
+           "rating":2.2,
+           "price":100,
+           "discount":6
            },
         {
             "id":63,
             "image1":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10802_d9271642-ab6d-4431-90a6-98a2707b0069.jpg?v=1679673329",
             "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10803_413efc5e-b84a-4364-ae5e-f88d296f7f89.jpg?v=1679673331",
             "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10804_bc8255bc-06b1-45b2-a749-1a2e56db316b.jpg?v=1679673333",
-            "price":"249",
+            "price":249,
             "brand":"sugar",
             "category":"kajal",
-            "rating":"2.5",
-            "discount":"3",
+            "rating":2.5,
+            "discount":3,
             "title":"Kohl Of Honour Intense Kajal - 02 Brown Bag (Chocolate Brown)"
        },
        {   "id": 64, 
@@ -401,20 +401,20 @@
            "title":"Nothing Else Matter Longwear Lipstick",
            "category":"lipstick",
            "brand":"goodvibes",
-           "rating":"4",
-           "price":"1999",
-           "discount":"25"
+           "rating":4,
+           "price":1999,
+           "discount":25
            },
           {
             "id":65,
             "image1":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10801_b306b54f-47c0-4606-a240-0af7c43f04bf.jpg?v=1679673339",
             "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10802_06127382-fe35-4047-8396-ec9bf8e9a50e.jpg?v=1679673341",
             "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10803_a7c88f53-1cf1-42c0-adaf-91d7d7b5f73f.jpg?v=1679673343",
-            "price":"212",
+            "price":212,
             "brand":"goodvibes",
             "category":"kajal",
-            "rating":"4",
-            "discount":"15",
+            "rating":4,
+            "discount":15,
             "title":"Kohl Of Honour Intense Kajal - 03 Aqua Lung (Metallic Mint Green)"
        },
        {   "id":66 , 
@@ -424,20 +424,20 @@
            "title":"Mettle Satin Lipstick ",
            "category":"lipstick",
            "brand":"sugar",
-           "rating":"3.8",
-           "price":"469",
-           "discount":"12"
+           "rating":3.8,
+           "price":469,
+           "discount":12
            },
           {
             "id":67,
             "image1":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10802_4ed96641-bb6e-4c04-bb23-4aa21e1a0c2c.jpg?v=1679673354",
             "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10803_3ded3428-a3c0-4f9b-a023-24d6a057b898.jpg?v=1679673356",
             "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10801_1e493f0a-637c-4fb6-81f5-532f60900b52.jpg?v=1679673352",
-            "price":"215",
+            "price":215,
             "brand":"goodvibes",
             "category":"kajal",
-            "rating":"3",
-            "discount":"13%",
+            "rating":3,
+            "discount":13,
             "title":"Kohl Of Honour Intense Kajal - 04 True Blue (Navy Blue)"
        },
        {   "id":68 , 
@@ -447,20 +447,20 @@
            "title":"Coffee Culture Lip Scrub",
            "category":"lipstick",
            "brand":"sugar",
-           "rating":"4.5",
-           "price":"530",
-           "discount":"10"
+           "rating":4.5,
+           "price":530,
+           "discount":10
            },
           {
             "id":69,
             "image1":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10801_075f0ced-35b1-4ac3-be23-ebb5c23d1e36.jpg?v=1679673365",
             "image2":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10802_7ee03983-77e6-4407-aebd-760da8513a60.jpg?v=1679673367",
             "image3":"https://cdn.shopify.com/s/files/1/0906/2558/products/KohlOfHonourIntenseKajal-1080x10804_bef2d0e6-e9ee-4791-9e59-7ff97ba1f050.jpg?v=1679673371",
-            "price":"199",
+            "price":199,
             "brand":"sugar",
             "category":"kajal",
-            "rating":"1",
-            "discount":"13",
+            "rating":1.9,
+            "discount":13,
             "title":"Kohl Of Honour Intense Kajal - 05 Go Green (Dark Green)"
        },
        {   "id":70 , 
@@ -470,9 +470,9 @@
            "title":"Smudge Me Not Liquid Lipstick - 07 ",
            "category":"lipstick",
            "brand":"goodvibes",
-           "rating":"5",
-           "price":"1150",
-           "discount":"7"
+           "rating":5,
+           "price":1150,
+           "discount":7
            },
        
           {
@@ -480,11 +480,11 @@
             "image1":"https://images.mamaearth.in/catalog/product/1/_/1_1_.jpg?fit=contain&width=400&height=400",
            "image2":"https://images.mamaearth.in/catalog/product/3/_/3_1.jpg?fit=contain&width=952",
             "image3":"https://images.mamaearth.in/catalog/product/6/_/6_1.jpg?fit=contain&width=952",
-            "price":"299",
+            "price":299,
             "brand":"goodvibes",
             "category":"kajal",
-            "rating":"4.7",
-            "discount":"1",
+            "rating":4.7,
+            "discount":51,
             "title":"Charcoal Black Long Stay Kajal with Vitamin C & Chamomile for 11-Hour Smudge-free Stay"
        }
    ],
